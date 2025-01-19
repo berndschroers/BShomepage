@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Edinburgh"
   employer         : "University of Edinburgh"
-  uri              : # URL
+  uri              : "https://www.maths.ed.ac.uk/school-of-mathematics"
   email            : "b.schroers@ed.ac.uk" 
 
   # Academic websites
