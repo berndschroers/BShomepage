@@ -13,7 +13,7 @@ I am Professor of Matter and Motion in the School of Mathematics at the Universi
 
 Mathematics in Edinburgh
 ======
-Currently, I am also the Head of the School of Mathematics at Edinburgh, one of the larges departments of mathematics in the UK and worldwide. The International Centre for Mathematical Sciences [ICMS](https://www.icms.org.uk) and the School of Mathematical and Computer Sciences at Heriot-Watt Universty [MACS](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) further add to the intersest of Edinburgh as a home for mathematicians. Mathematical research and PhD training at the Universty of Edinburgh and at Heriot-Watt University are pooled in the [Maxwell Institute](https://www.maxwell.ac.uk)
+Currently, I am also the Head of the School of Mathematics at Edinburgh, one of the largest departments of mathematics in the UK and worldwide. The International Centre for Mathematical Sciences [ICMS](https://www.icms.org.uk) and the School of Mathematical and Computer Sciences at Heriot-Watt Universty [MACS](https://www.hw.ac.uk/uk/schools/mathematical-computer-sciences.htm) further add to the intersest of Edinburgh as a home for mathematicians. Mathematical research and PhD training at the Universty of Edinburgh and at Heriot-Watt University are pooled in the [Maxwell Institute](https://www.maxwell.ac.uk)
 
 AIMS
 ======
